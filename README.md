@@ -10,14 +10,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
- 
   <img src="https://img.shields.io/badge/Matlab-3152A0?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
-  
-  
-  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Xamarine-3498DB?style=flat-square&logo=amazon-Xamarine&logoColor=white"/></a>
 </p>
 <br>
 
