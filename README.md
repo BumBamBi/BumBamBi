@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=4EA4D6&fontAlign=68&fontAlignY=35)
 
 <h3 align="center">
-  ### Hi there 👋
+  **Hi there 👋**
+  <br>
+  <br>
   <br>
   <br>
   <br>
@@ -28,5 +30,14 @@
 <br>
 <br>
 
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="mailto:dlrhkddn0325@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlrhkddn0325@gmail.com"/></a>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBamBi&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%00B388&title=hits&edge_flat=false"/></a>
+</p>
 
+<br>
+<br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=footer&text=BumBamBi&fontSize=70&fontColor=4EA4D6&fontAlign=76&&fontAlignY=75&reversal=true&)
