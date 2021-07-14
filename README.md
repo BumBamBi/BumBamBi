@@ -5,8 +5,6 @@
   <br>
   <br>
   <br>
-  <br>
-  <br>
   🛠 Tech Stack 🛠
 </h3>
 
@@ -28,14 +26,10 @@
   <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white"/></a>
 </p>
 <br>
-<br>
 
-<h3 align="center"> Me </h3>
 <p align="center">
  <a href="https://www.instagram.com/2kw_bambi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2kw_bambi/"/></a>&nbsp
   <a href="mailto:dlrhkddn0325@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlrhkddn0325@gmail.com"/></a>
-  <br>
-  <br>
   <br>
   <br>
   <br>
