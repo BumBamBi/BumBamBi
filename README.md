@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
  
-  <img src="https://img.shields.io/badge/Matlab-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Matlab-3152A0?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>
   
   
