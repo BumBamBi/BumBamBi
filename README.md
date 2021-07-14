@@ -23,4 +23,18 @@ Here are some ideas to get you started:
 
 <p align="center"> Techs that I've used at least once </p>
 
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
+
+<br>
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=footer&text=BumBamBi&fontSize=70&fontColor=4EA4D6&fontAlign=76&&fontAlignY=75&reversal=true&)
