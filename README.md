@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=4EA4D6&fontAlign=68&fontAlignY=35)
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=footer&text=BumBamBi&fontSize=70&fontColor=4EA4D6&fontAlign=76&&fontAlignY=75&reversal=true&)
