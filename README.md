@@ -72,17 +72,17 @@ I'm currently working as a software engineer in Seoul.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&langs_count=10&layout=compact&theme=white)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=8&layout=compact&theme=white)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&langs_count=10&layout=compact&theme=white)](https://github.com/BumBamBi/BumBamBi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&langs_count=8&layout=compact&theme=white)](https://github.com/BumBamBi?tab=repositories&q=&type=&language=java&sort=)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=resume&show_owner=true&theme=white)](https://github.com/BumBamBi/resume) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=manual-job&show_owner=true&theme=white)](https://github.com/BumBamBi/manual-job)-->
 
 <!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=jogilsang&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-I'm sharing my [inspiration](https://blog.naver.com/jogilsang) on the subject below.   
+I'm sharing my [inspiration](https://blog.naver.com/BumBamBi) on the subject below.   
 
 **1. Languages**  
 
