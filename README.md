@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=4EA4D6&fontAlign=68&fontAlignY=35)
 
-<h3 align="center">
-  **Hi there 👋**
-  <br>
-  <br>
-  <br>
- 
  <!-- 스테이터스 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&langs_count=10&layout=compact&theme=white)](https://github.com/BumBamBi/BumBamBi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&langs_count=8&layout=compact&theme=white)](https://github.com/BumBamBi?tab=repositories&q=&type=&language=java&sort=)
@@ -15,6 +9,11 @@
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  
+<h3 align="center">
+  **Hi there 👋**
+  <br>
+  <br>
+  <br>
   🛠 Tech Stack 🛠
 </h3>
 
