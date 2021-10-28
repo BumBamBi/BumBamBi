@@ -46,14 +46,11 @@
 
 <hr>
 
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
-
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjogilsang&count_bg=%233DDB86&title_bg=%23073642&icon=android.svg&icon_color=%233DDB86&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ### Welcome My Space!
 
-Hi there, I'm [Gilsang Jo](https://github.com/jogilsang/resume), a Repulic of korea   
+Hi there, I'm [Kwangwoo Lee](https://github.com/BumBamBi/resume), a Repulic of korea   
 I'm currently working as a software engineer in Seoul.
 
 <!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
