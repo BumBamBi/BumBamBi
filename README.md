@@ -65,10 +65,10 @@ I'm currently working as a software engineer in Seoul.
 
 -->
 
-<!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
+<!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) 
 - 🌱 interesting on [Devops](https://github.com/jogilsang/manual-devops) 
 - 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
-
+-->
 <!-- if you want, SNS icon
 **SNS:**  
 
