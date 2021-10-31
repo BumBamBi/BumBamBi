@@ -107,7 +107,7 @@ I'm currently working as a software engineer in Seoul.
 <!-- <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code> -->
 
 <br />
-
+<!--
 **3. Devops:**
 
 <code><img alt = "3.1 SVN" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_subversion_icon_130138.png"> <a href="https://github.com/jogilsang/scm/tree/master/2.svn">SVN</a></code>
@@ -119,10 +119,10 @@ I'm currently working as a software engineer in Seoul.
 <!-- <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/1.aws">AWS</a></code>
 <code><img alt = "3.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code> -->
 
-
+-->
 
 <br />
-
+<!--
 **4. DB:**  
 
 <code><img alt = "4.1 RDBMS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_db_icon_130469.png"> <a href="https://github.com/jogilsang/manual-db">RDBMS</a></code>
@@ -130,16 +130,16 @@ I'm currently working as a software engineer in Seoul.
 <code><img alt = "4.2 Realm" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/6.mongoDB">MongoDB</a></code> 
 <!-- <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code> -->
 <!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/db/tree/master/2.oracle">Oracle</a></code> -->
-
+-->
 <br />
-
+<!--
 **5. Collaboration and Tools:**  
 
 <code><img alt = "5.1 JIRA" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> <a href="https://github.com/jogilsang/manual-jira">JIRA</a></code>
 <code><img alt = "5.2 Confluence" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> Confluence</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
 <!-- <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code> -->
-
+-->
 <!--
 1. Languages : 
 ① Java 1.8 - 3  ② Kotlin - 1  ③ Node.js - 1
