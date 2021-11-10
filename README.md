@@ -2,9 +2,13 @@
 
  <!-- 스테이터스 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&langs_count=10&layout=compact&theme=white)](https://github.com/BumBamBi/BumBamBi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&langs_count=8&layout=compact&theme=white)](https://github.com/BumBamBi?tab=repositories&q=&type=&language=C++&sort=)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=resume&show_owner=true&theme=white)](https://github.com/BumBamBi/resume) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=manual-job&show_owner=true&theme=white)](https://github.com/BumBamBi/manual-job)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&langs_count=8)](https://github.com/BumBamBi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact)](https://github.com/BumBamBi/github-readme-stats)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=resume&show_owner=true&theme=white)](https://github.com/BumBamBi/resume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=manual-job&show_owner=true&theme=white)](https://github.com/BumBamBi/manual-job)
+-->
 
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
