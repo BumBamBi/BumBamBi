@@ -2,7 +2,6 @@
 
  <!-- 스테이터스 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&langs_count=10&layout=compact&theme=white)](https://github.com/BumBamBi/BumBamBi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&langs_count=8)](https://github.com/BumBamBi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact)](https://github.com/BumBamBi/github-readme-stats)
 
 <!--
