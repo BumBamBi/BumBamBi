@@ -141,7 +141,7 @@ I'm currently working as a software engineer in Seoul.
 <code><img alt = "5.2 Confluence" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/confluence_logo_icon_147305.png"> Confluence</code>
 <code><img alt = "5.3 Slack" height="20" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/slack_logo_icon_147236.png"> <a href="https://github.com/jogilsang/manual-slack">Slack</a></code>
 -->
-<!-- <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code> -->
+<!-- <code><img alt = "5.4 Adobe XD" height="20" src="https://cdn.icon-icons.com/icons2/2198/PNG/512/adobe_xd_folder_icon_133957.png"> <a href="https://www.behance.net/jogilsang4a00">XD</a></code>
 -->
 <!--
 1. Languages : 
