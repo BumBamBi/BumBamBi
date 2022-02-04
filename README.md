@@ -1,28 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=4EA4D6&fontAlign=68&fontAlignY=35)
 
  <!-- 스테이터스 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&layout=compact)](https://github.com/BumBamBi/BumBamBi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact)](https://github.com/BumBamBi/github-readme-stats)
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=resume&show_owner=true&theme=white)](https://github.com/BumBamBi/resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BumBamBi&repo=manual-job&show_owner=true&theme=white)](https://github.com/BumBamBi/manual-job)
--->
+<img width=420px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true"/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  
-<h3 align="center">
-  **Hi there 👋**
-  <br>
-  <br>
-  <br>
-  🛠 Tech Stack 🛠
-</h3>
+<br>
 
-<p align="center"> Techs that I've used at least once </p>
+# Techs
 
-<p align="center">
+## 🔥 Main Tech
+<hr>
+<div>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -30,33 +20,38 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Matlab-3152A0?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+</div>
+
   <br>
   <br>
+
+<div>
+  <img src="https://img.shields.io/badge/Css-1572B6?style=flat_square&logo=CSS3&logoColor=black">
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat_square&logo=Mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=MySql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=SFML&logoColor=white"/></a>
-</p>
+</div>
+
 <br>
 <br>
-<br>
-<h3 align="center"> It's Me </h3>
-<p align="center">
+
+## It's Me
+<div>
  <a href="https://www.instagram.com/2kw_bambi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/2kw_bambi/"/></a>&nbsp
   <a href="mailto:dlrhkddn0325@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlrhkddn0325@gmail.com"/></a>
-  <br>
-  <br>
-  <br>
-  <br>
+</div>
+
+<br>
+
+<div>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBamBi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=footer&text=BumBamBi&fontSize=70&fontColor=4EA4D6&fontAlign=76&&fontAlignY=75&reversal=true&)
 
 
-
-
-<hr>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjogilsang&count_bg=%233DDB86&title_bg=%23073642&icon=android.svg&icon_color=%233DDB86&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
