@@ -2,6 +2,7 @@
 
  <!-- 스테이터스 -->
 <img width=420px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&count_private=true&show_icons=true")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&count_private=false&show_icons=true")
 
