@@ -2,11 +2,12 @@
 
  <!-- 스테이터스 -->
 <img width=420px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&count_private=true&show_icons=true")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BumBamBi&count_private=false&show_icons=true")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
 <!-- 배경화면 트로피 설정 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
