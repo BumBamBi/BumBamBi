@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=4EA4D6&fontAlign=68&fontAlignY=35)
 
  <!-- 스테이터스 -->
-<img width=410px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true&theme=dracula"/>
-
+<img width=400px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true&theme=dracula"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 
