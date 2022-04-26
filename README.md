@@ -6,9 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
-
 <!-- 배경화면 트로피 설정 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BumBamBi&theme=flat&column=7&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Techs
 
