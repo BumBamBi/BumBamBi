@@ -97,8 +97,6 @@ I'm currently working as a software engineer in Seoul.
 <code><img alt = "2.4 Vue" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> <a href="https://github.com/jogilsang/manual-vue">Vue.js</a></code>
 <code><img alt = "2.5 Spring" height="20" src="https://cdn.icon-icons.com/icons2/1250/PNG/512/1494258020-leafspringplantecologygreen_84346.png"> <a href="https://github.com/jogilsang/manual-spring">Spring</a></code>
 <!-- <code><img alt = "2.3 Ionic" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png"> <a href="https://github.com/jogilsang/manual-ionic">Ionic</a></code> -->
-
-<br />
 <!--
 **3. Devops:**
 
@@ -111,8 +109,6 @@ I'm currently working as a software engineer in Seoul.
 <!-- <code><img alt = "3.3 AWS" height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/1.aws">AWS</a></code>
 <code><img alt = "3.4 Ubuntu" height="20" src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Ubuntu_23488.png"> <a href="https://github.com/jogilsang/manual-devops/tree/master/4.ubuntu">Ubuntu</a></code> -->
 
-
-<br />
 <!--
 **4. DB:**  
 
@@ -122,7 +118,6 @@ I'm currently working as a software engineer in Seoul.
 <!-- <code><img alt = "4.1 MS-SQL" height="20" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"> <a href="https://github.com/jogilsang/manual-db/tree/master/1.mssql">MS-SQL</a></code> -->
 <!-- <code><img alt = "4.2 Oracle" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png"> <a href="https://github.com/jogilsang/db/tree/master/2.oracle">Oracle</a></code> -->
 
-<br />
 <!--
 **5. Collaboration and Tools:**  
 
