@@ -77,9 +77,6 @@ I'm currently working as a software engineer in Seoul.
 <br />
 -->
 
----
-
-
 <!--
 
 **1. Languages**  
