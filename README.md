@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A3DBEC&height=200&section=header&text=KwangWoo%20Lee&fontSize=70&fontColor=EEEE&fontAlign=68&fontAlignY=35)
 
- <!-- 스테이터스 -->
+ <!-- 1. 스테이터스 -->
 <img width=420px src="https://github-readme-stats.vercel.app/api?username=BumBamBi&show_icons=true&theme=dracula"/> <img width=353px src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBamBi&layout=compact&theme=dracula"/>
 
-<!-- 배경화면 트로피 설정 -->
+<!-- 2. 배경화면 트로피 설정 -->
 <img width=800px src="https://github-profile-trophy.vercel.app/?username=BumBamBi&column=7&theme=onedark"/>
 
 # Techs
